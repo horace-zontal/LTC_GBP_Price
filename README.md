@@ -1,2 +1,2 @@
 # LTC_GBP_Price
-Prints current litecoin price to screen
+A simple python program that prints current litecoin price to screen
